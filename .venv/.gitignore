@@ -1,17 +1,78 @@
-# Ignore virtual environment
-.venv/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
 env/
 venv/
+ENV/
+env.bak/
+venv.bak/
 
-# Ignore Python cache files
-__pycache__/
-*.pyc
-*.pyo
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
 
-# Ignore logs
-*.log
+# pyenv
+.python-version
 
-# Ignore system files
-.DS_Store
-Thumbs.db
+# VS Code settings
+.vscode/
 
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
