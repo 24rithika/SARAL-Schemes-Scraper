@@ -1,0 +1,112 @@
+- name: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)
+  url: https://pmkisan.gov.in
+- name: Pradhan Mantri Fasal Bima Yojana (PMFBY)
+  url: https://pmfby.gov.in
+- name: Rashtriya Krishi Vikas Yojana (RKVY)
+  url: https://agricoop.nic.in/rkvyschemes
+- name: Soil Health Card Scheme
+  url: https://soilhealth.dac.gov.in
+- name: Paramparagat Krishi Vikas Yojana (PKVY)
+  url: https://agricoop.nic.in/pkvy
+- name: Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)
+  url: https://nrega.dord.gov.in/MGNREGA_new/Nrega_home.aspx
+- name: Pradhan Mantri Gramin Awas Yojana (PMAY-G)
+  url: https://pmayg.nic.in
+- name: Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)
+  url: https://kaushalbharat.gov.in/ddugky-report/candidateview
+- name: National Social Assistance Programme (NSAP)
+  url: https://nsap.nic.in
+- name: Sansad Adarsh Gram Yojana (SAGY)
+  url: https://saanjhi.gov.in
+- name: National Rural Livelihood Mission (NRLM)
+  url: https://aajeevika.gov.in
+- name: Pradhan Mantri Ujjwala Yojana (PMUY)
+  url: https://pmuy.gov.in
+- name: Swachh Bharat Mission (Gramin)
+  url: https://swachhbharatmission.gov.in
+- name: National Rural Drinking Water Programme (NRDWP)
+  url: https://jalshakti-ddws.gov.in
+- name: Atal Bhujal Yojana (ABHY)
+  url: https://jalshakti-ddws.gov.in
+- name: National Food Security Mission (NFSM)
+  url: https://nfsm.gov.in
+- name: Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)
+  url: https://pmksy.gov.in
+- name: e-National Agriculture Market (e-NAM)
+  url: https://enam.gov.in
+- name: National Horticulture Mission (NHM)
+  url: https://nhm.gov.in
+- name: National Bamboo Mission (NBM)
+  url: https://nbm.nic.in/nbm-home
+- name: National Mission on Sustainable Agriculture (NMSA)
+  url: https://nmsa.dac.gov.in
+- name: Pradhan Mantri Matsya Sampada Yojana (PMMSY)
+  url: https://www.myscheme.gov.in/schemes/pmmsy
+- name: National Livestock Mission (NLM)
+  url: https://dahd.nic.in/national_livestock_mission
+- name: National Agroforestry Policy
+  url: https://agricoop.nic.in
+- name: National Mission on Oilseeds and Oil Palm (NMOOP)
+  url: https://nmoop.gov.in
+- name: National Mission on Edible Oils - Oil Palm (NMEO-OP)
+  url: https://nmoop.gov.in
+- name: National Mission on Pulses (NMP)
+  url: https://nmp.dac.gov.in
+- name: National Mission on Millets (NMM)
+  url: https://nmm.dac.gov.in
+- name: Pradhan Mantri Kisan Maan Dhan Yojana (PM-KMY)
+  url: https://pmkmy.gov.in
+- name: Krishi Vigyan Kendra (KVK)
+  url: https://kvk.icar.gov.in
+- name: Agricultural Technology Management Agency (ATMA)
+  url: https://atma.dac.gov.in
+- name: e-Rashtriya Krishi Vikas Yojana (e-RKVY)
+  url: https://agricoop.nic.in/e-rkvy
+- name: National e-Governance Plan in Agriculture (NeGP-A)
+  url: https://agricoop.nic.in/negp-a
+- name: Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA)
+  url: https://aashapmkisan.gov.in
+- name: National Cooperative Development Corporation (NCDC) Schemes
+  url: https://ncdc.nic.in
+- name: Agricultural Marketing Infrastructure (AMI) Scheme
+  url: https://agrimarketing.gov.in
+- name: National Agriculture Insurance Scheme (NAIS)
+  url: https://pmfby.gov.in
+- name: Weather Based Crop Insurance Scheme (WBCIS)
+  url: https://pmfby.gov.in
+- name: Interest Subvention Scheme for Short Term Crop Loans
+  url: https://pib.gov.in
+- name: Kisan Credit Card (KCC) Scheme
+  url: https://pib.gov.in
+- name: National Food Security Act (NFSA)
+  url: https://nfsa.gov.in
+- name: Public Distribution System (PDS)
+  url: https://dfpd.gov.in
+- name: Midday Meal Scheme (MDMS)
+  url: https://mdm.nic.in
+- name: Integrated Child Development Services (ICDS)
+  url: https://icds-wcd.nic.in
+- name: National Rural Health Mission (NRHM)
+  url: https://nhm.gov.in
+- name: Janani Suraksha Yojana (JSY)
+  url: https://nhm.gov.in
+- name: Amma Unavagam (Tamil Nadu)
+  url: https://www.tn.gov.in/scheme/data_view/24543
+- name: KALIA Scheme (Odisha)
+  url: https://kalia.odisha.gov.in
+- name: Rythu Bandhu Scheme (Telangana)
+  url: https://rythubandhu.telangana.gov.in
+- name: Krushak Assistance for Livelihood and Income Augmentation (Odisha)
+  url: https://kalia.odisha.gov.in
+- name: Rajiv Gandhi Kisan Nyay Yojana (Chhattisgarh)
+  url: https://krishi.cg.nic.in
+- name: YSR Rythu Bharosa (Andhra Pradesh)
+  url: https://ysrrythubharosa.ap.gov.in
+- name: Mukhyamantri Amrutum Yojana (Gujarat)
+  url: https://magujarat.com
+- name: Saur Sujala Yojana (Chhattisgarh)
+  url: https://agriculture.cg.gov.in/saur-sujala-yojana
+- name: Bhavantar Bhugtan Yojana (Madhya Pradesh)
+  url: https://mpkrishi.mp.gov.in
+- name: Samajwadi Pension Yojana (Uttar Pradesh)
+  url: https://sspy-up.gov.in
