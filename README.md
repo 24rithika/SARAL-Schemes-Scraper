@@ -1,5 +1,3 @@
-=======
-
 # SARAL-Schemes-Scraper
 
 Scraper and dataset for SARAL: collects, cleans, and stores Indian government scheme details (eligibility, benefits, how‑to‑apply) using Python, Selenium/BeautifulSoup, and saves to structured files/DB for a local‑language assistant.
