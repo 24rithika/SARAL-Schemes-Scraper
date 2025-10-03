@@ -50,9 +50,6 @@ beautifulsoup4 (if used)
 Web Driver:
 
 ChromeDriver version compatible with your installed Google Chrome browser.
-
-Optional: virtualenv for isolated Python environment.
-
 bash
 pip install selenium PyYAML requests beautifulsoup4
 Project Structure
